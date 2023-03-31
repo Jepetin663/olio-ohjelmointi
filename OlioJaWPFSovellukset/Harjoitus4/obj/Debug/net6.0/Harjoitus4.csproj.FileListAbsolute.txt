@@ -1,0 +1,15 @@
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus4\obj\Debug\net6.0\Harjoitus4.csproj.AssemblyReference.cache
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus4\obj\Debug\net6.0\Harjoitus4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus4\obj\Debug\net6.0\Harjoitus4.AssemblyInfoInputs.cache
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus4\obj\Debug\net6.0\Harjoitus4.AssemblyInfo.cs
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus4\obj\Debug\net6.0\Harjoitus4.csproj.CoreCompileInputs.cache
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus4\bin\Debug\net6.0\Harjoitus4.exe
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus4\bin\Debug\net6.0\Harjoitus4.deps.json
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus4\bin\Debug\net6.0\Harjoitus4.runtimeconfig.json
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus4\bin\Debug\net6.0\Harjoitus4.dll
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus4\bin\Debug\net6.0\Harjoitus4.pdb
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus4\obj\Debug\net6.0\Harjoitus4.dll
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus4\obj\Debug\net6.0\refint\Harjoitus4.dll
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus4\obj\Debug\net6.0\Harjoitus4.pdb
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus4\obj\Debug\net6.0\Harjoitus4.genruntimeconfig.cache
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus4\obj\Debug\net6.0\ref\Harjoitus4.dll
