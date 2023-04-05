@@ -25,7 +25,7 @@ namespace Harjoitus4
             Console.WriteLine("artisti: " + artisti);
             Console.WriteLine("nimi: " + nimi);
             Console.WriteLine("genre: " + genre);
-            Console.WriteLine("hinta: " + hinta + "euroa");
+            Console.WriteLine("hinta: " + hinta + " euroa");
             Console.WriteLine();
         }
 
