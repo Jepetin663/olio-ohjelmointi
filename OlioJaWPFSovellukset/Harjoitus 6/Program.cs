@@ -13,7 +13,7 @@ internal class Program
         kiss.Ääntele();
 
         Eläin.KuinkaMonta();
-
+Harjoitus 7
         Koira koir2 = new Koira();
         Koira koir3 = new Koira();
         Koira kiss2 = new Koira();
