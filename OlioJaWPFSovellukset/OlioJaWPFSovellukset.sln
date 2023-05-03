@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus 10", "Harjoitus 10\Harjoitus 10.csproj", "{0E970398-206D-4B70-940A-FF41431D3950}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus 11", "Harjoitus 11\Harjoitus 11.csproj", "{5DA97A81-9866-481E-ADCA-FB02C2A6A97A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0E970398-206D-4B70-940A-FF41431D3950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0E970398-206D-4B70-940A-FF41431D3950}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0E970398-206D-4B70-940A-FF41431D3950}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0E970398-206D-4B70-940A-FF41431D3950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DA97A81-9866-481E-ADCA-FB02C2A6A97A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DA97A81-9866-481E-ADCA-FB02C2A6A97A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DA97A81-9866-481E-ADCA-FB02C2A6A97A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DA97A81-9866-481E-ADCA-FB02C2A6A97A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F2F6073C-438D-47FC-B8CD-6B1034D40DDD}
+		SolutionGuid = {871408F9-AC9B-4284-B16A-C2C9E81B1500}
 	EndGlobalSection
 EndGlobal
