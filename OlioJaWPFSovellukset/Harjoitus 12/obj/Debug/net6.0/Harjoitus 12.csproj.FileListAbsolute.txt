@@ -1,0 +1,15 @@
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 12\bin\Debug\net6.0\Harjoitus 12.exe
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 12\bin\Debug\net6.0\Harjoitus 12.deps.json
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 12\bin\Debug\net6.0\Harjoitus 12.runtimeconfig.json
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 12\bin\Debug\net6.0\Harjoitus 12.dll
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 12\bin\Debug\net6.0\Harjoitus 12.pdb
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 12\obj\Debug\net6.0\Harjoitus 12.csproj.AssemblyReference.cache
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 12\obj\Debug\net6.0\Harjoitus 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 12\obj\Debug\net6.0\Harjoitus 12.AssemblyInfoInputs.cache
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 12\obj\Debug\net6.0\Harjoitus 12.AssemblyInfo.cs
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 12\obj\Debug\net6.0\Harjoitus 12.csproj.CoreCompileInputs.cache
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 12\obj\Debug\net6.0\Harjoitus 12.dll
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 12\obj\Debug\net6.0\refint\Harjoitus 12.dll
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 12\obj\Debug\net6.0\Harjoitus 12.pdb
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 12\obj\Debug\net6.0\Harjoitus 12.genruntimeconfig.cache
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 12\obj\Debug\net6.0\ref\Harjoitus 12.dll

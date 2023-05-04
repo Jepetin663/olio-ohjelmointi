@@ -17,7 +17,7 @@ namespace Harjoitus_11
             {
                 try
                 {
-                    Console.Write("OpiskelijaID: ");
+                    Console.Write("opiskelija_id: ");
                     opiskelijaID = Console.ReadLine();
 
                     sallittu = TarkistaID(opiskelijaID);
@@ -32,7 +32,7 @@ namespace Harjoitus_11
             if (sallittu)
             {
                 Opiskelijat.Add(opiskelijaID, new Opiskelija(etunimi, sukunimi, opiskelijaID));
-                TulostaViesti(string.Format("Uusi opiskelija {0} lisätty kokoelmaan!", Opiskelijat[opiskelijaID].HaeData()));
+                TulostaViesti(string.Format("uusi opiskelija {0} kokoelmassa", Opiskelijat[opiskelijaID].HaeData()));
             }
         }
 
@@ -40,11 +40,11 @@ namespace Harjoitus_11
         {
             if (Opiskelijat.ContainsKey(id))
             {
-                throw new OpiskelijaPoikkeus("OpiskelijaID " + id + " ei ole uniikki, anna uusi ID");
+                throw new OpiskelijaPoikkeus("opiskelija_id " + id + " ei ole uniikki, anna uusi ID");
             }
             else if (id.Length <= 4 || id.Length >= 6)
             {
-                throw new OpiskelijaPoikkeus("OpiskelijaID " + id + " on liian pitkä tai lyhyt. Opiskelija ID:n potuus tulee olla tasan 5");
+                throw new OpiskelijaPoikkeus("opiskelija_id " + id + " on liian pitkä tai lyhyt, id:n pituus tulee olla tasan 5");
             }
             else
             {
@@ -59,7 +59,7 @@ namespace Harjoitus_11
             {
                 if (i == syötettyIndex)
                 {
-                    TulostaViesti("Opiskelija " + Opiskelijat[avain].HaeData() + " poistettu kokoelmasta");
+                    TulostaViesti("opiskelija " + Opiskelijat[avain].HaeData() + " kokoelmasta poistettu");
                     Opiskelijat.Remove(avain);
                     break;
                 }
@@ -77,7 +77,7 @@ namespace Harjoitus_11
 
             int i = 1;
 
-            TulostaViesti("Opiskelijat kokoelmassa: ");
+            TulostaViesti("opiskelijat kokoelmassa: ");
 
             foreach (Opiskelija opiskelija in Opiskelijat.Values)
             {
