@@ -1,0 +1,30 @@
+﻿<Window x:Class="Harjoitus_17.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Harjoitus_17"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Image HorizontalAlignment="Center" Height="581" VerticalAlignment="Top" Width="800" Source="/omakotitalo.png" Stretch="Fill"/>
+        <Button x:Name="btnVähennä" Content="&lt;" HorizontalAlignment="Left" Margin="319,358,0,0" VerticalAlignment="Top" Height="52" Width="32" Click="Button_Click"/>
+        <Button x:Name="btnLisää" Content="&gt;" HorizontalAlignment="Left" Margin="449,358,0,0" VerticalAlignment="Top" Height="52" Width="32" Click="Button_Click_1"/>
+        <TextBlock x:Name="tblValue" HorizontalAlignment="Left" Margin="399,376,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="26" Width="45" Foreground="#FFE02121" Text=""/>
+        <TextBlock x:Name="tblValue_Copy" HorizontalAlignment="Left" Margin="213,358,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="52" Width="112" Foreground="#FFE02121"><Run/><LineBreak/><Run Text="Saunan lämpötila:"/></TextBlock>
+        <Image x:Name="imgSavu" HorizontalAlignment="Left" Height="161" Margin="319,30,0,0" VerticalAlignment="Top" Width="150" Source="/savu2.gif" Stretch="Fill" Visibility="Hidden"/>
+        <Button x:Name="btnSavu" Content="Savupiippu" HorizontalAlignment="Left" Margin="610,76,0,0" VerticalAlignment="Top" Height="48" Width="91" Click="btnSavu_Click"/>
+        <Button x:Name="btnKeittiönValot" Content="Keittiön valot" HorizontalAlignment="Left" Margin="76,76,0,0" VerticalAlignment="Top" Height="48" Width="92" Click="btnValot_Click"/>
+        <Image x:Name="imgValo" HorizontalAlignment="Left" Height="85" Margin="178,310,0,0" VerticalAlignment="Top" Width="22" Source="/valot.jpg" RenderTransformOrigin="0.5,0.5" Stretch="Fill" Visibility="Hidden">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0.521"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="0.391"/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+
+    </Grid>
+</Window>

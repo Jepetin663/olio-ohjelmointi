@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Harjoitus_17</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="auer-2018.jpg" />
+    <None Remove="omakotitalo.png" />
+    <None Remove="savu.gif" />
+    <None Remove="savu2.gif" />
+    <None Remove="takapiha.jpg" />
+    <None Remove="valot.jpg" />
+    <None Remove="valot.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="auer-2018.jpg" />
+    <Resource Include="omakotitalo.png" />
+    <Resource Include="savu.gif" />
+    <Resource Include="savu2.gif" />
+    <Resource Include="takapiha.jpg" />
+    <Resource Include="valot.jpg" />
+    <Resource Include="valot.png" />
+  </ItemGroup>
+
+</Project>

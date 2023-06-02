@@ -8,8 +8,8 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <TextBox x:Name="tbInputField" HorizontalAlignment="Center" Margin="0,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="134" Height="62" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
-        <Button x:Name="btnKmToMiles" Content="Convert to Miles" HorizontalAlignment="Left" Margin="60,120,0,0" VerticalAlignment="Top" Height="42" Width="137" Click="btnKmToMiles_Click"/>
-        <Button x:Name="btnMilesToKm" Content="Convert to Kilometers" HorizontalAlignment="Left" Margin="596,120,0,0" VerticalAlignment="Top" Height="42" Width="156" Click="btnMilesToKm_Click"/>
+        <Button x:Name="btnKmToMiles" Content="KM to MI" HorizontalAlignment="Left" Margin="60,120,0,0" VerticalAlignment="Top" Height="42" Width="137" Click="btnKmToMiles_Click"/>
+        <Button x:Name="btnMilesToKm" Content="MI to KM" HorizontalAlignment="Left" Margin="596,120,0,0" VerticalAlignment="Top" Height="42" Width="156" Click="btnMilesToKm_Click"/>
         <TextBlock x:Name="tbCoversionResult" HorizontalAlignment="Center" Margin="0,288,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="220" FlowDirection="LeftToRight" Height="54"/>
 
     </Grid>

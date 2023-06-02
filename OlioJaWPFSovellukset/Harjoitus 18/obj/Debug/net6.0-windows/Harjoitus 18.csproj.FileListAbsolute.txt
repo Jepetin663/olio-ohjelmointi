@@ -1,0 +1,21 @@
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 18\bin\Debug\net6.0-windows\Harjoitus 18.exe
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 18\bin\Debug\net6.0-windows\Harjoitus 18.deps.json
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 18\bin\Debug\net6.0-windows\Harjoitus 18.runtimeconfig.json
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 18\bin\Debug\net6.0-windows\Harjoitus 18.dll
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 18\bin\Debug\net6.0-windows\Harjoitus 18.pdb
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 18\obj\Debug\net6.0-windows\Harjoitus 18.csproj.AssemblyReference.cache
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 18\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 18\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 18\obj\Debug\net6.0-windows\Harjoitus 18_MarkupCompile.cache
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 18\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 18\obj\Debug\net6.0-windows\Harjoitus 18.g.resources
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 18\obj\Debug\net6.0-windows\Harjoitus 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 18\obj\Debug\net6.0-windows\Harjoitus 18.AssemblyInfoInputs.cache
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 18\obj\Debug\net6.0-windows\Harjoitus 18.AssemblyInfo.cs
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 18\obj\Debug\net6.0-windows\Harjoitus 18.csproj.CoreCompileInputs.cache
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 18\obj\Debug\net6.0-windows\Harjoitus 18.dll
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 18\obj\Debug\net6.0-windows\refint\Harjoitus 18.dll
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 18\obj\Debug\net6.0-windows\Harjoitus 18.pdb
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 18\obj\Debug\net6.0-windows\Harjoitus 18.genruntimeconfig.cache
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 18\obj\Debug\net6.0-windows\ref\Harjoitus 18.dll
+C:\Users\jere.kekkinen\source\repos\Jepetin663\olio-ohjelmointi\OlioJaWPFSovellukset\Harjoitus 18\obj\Debug\net6.0-windows\Harjoitus 18_MarkupCompile.lref

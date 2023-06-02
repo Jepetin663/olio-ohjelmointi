@@ -16,9 +16,6 @@ using System.Windows.Shapes;
 
 namespace Harjoitus_16
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
     public partial class MainWindow : Window
     {
         public MainWindow()
@@ -66,8 +63,7 @@ namespace Harjoitus_16
         }
 
 
-        // staattinen metodi, jonka avulla voidaan muuntaa kilometrit maileiksi.
-        //Metodissa tulee olla yksi parametri (float i) ja tulee palauttaa float -arvo hakijalle
+
         private static float KmToMiles(float i)
         {
             float conversion = 0.62137f;
