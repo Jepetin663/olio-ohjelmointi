@@ -6,7 +6,7 @@
         <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
             <TextBlock Text="Olet kerroksessa:"/>
             <TextBlock x:Name="tämäKerrosTextBlock" FontWeight="Bold" FontSize="18" Margin="0 10"/>
-            <TextBlock Text="Valitse kerros (1-10)"/>
+            <TextBlock Text="Valitse kerros (1-6)" IsEnabled="False"/>
             <TextBox x:Name="valitsemasiKerrosTextBox" Width="50" Margin="0 10"/>
             <Button Content="Liiku" Click="MoveButton_Click"/>
         </StackPanel>

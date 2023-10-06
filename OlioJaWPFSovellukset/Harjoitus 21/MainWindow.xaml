@@ -1,0 +1,21 @@
+﻿<Window x:Class="Harjoitus_21.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Shopping Cart" Height="350" Width="525">
+
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <CheckBox Name="checkBox1" Content="Maito" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked"/>
+            <CheckBox Name="checkBox2" Content="Nugets" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked"/>
+            <CheckBox Name="checkBox3" Content="Porkkana" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked"/>
+            <CheckBox Name="checkBox4" Content="Mars jäätelö patukka 9 pack" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked"/>
+            <CheckBox Name="checkBox5" Content="Lasin pesu neste" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked"/>
+
+            <Button Content="Osta" Click="OstaButton_Click" Margin="10"/>
+        </StackPanel>
+
+        <StackPanel Name="stockPanel" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="10">
+            <TextBlock Text="Tuotteet ostoskorissa:" FontWeight="Bold" Margin="0,0,0,10"/>
+        </StackPanel>
+    </Grid>
+</Window>

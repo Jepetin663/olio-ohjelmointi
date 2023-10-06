@@ -29,7 +29,7 @@ namespace Harjoitus_19
         {
             if (int.TryParse(valitsemasiKerrosTextBox.Text, out int valitsemasiKerros))
             {
-                if (valitsemasiKerros >= 1 && ¨valitsemasiKerros <= 10)
+                if (valitsemasiKerros >= 1 && ¨valitsemasiKerros <= 6)
                 {
                     if (valitsemasiKerros == tämäKerrosFloor)
                     {
@@ -37,19 +37,19 @@ namespace Harjoitus_19
                     }
                     else
                     {
-                        MessageBox.Show("Hissi liikkuu kerrokseen: " + valitsemasiKerros);
+                        MessageBox.Show("Liikut hissillä kerrokseen: " + valitsemasiKerros);
                         tämäKerros = valitsemasiKerros;
                         PäivitäTämänKerroksenTeksti();
                     }
                 }
                 else
                 {
-                    MessageBox.Show("Virheellinen syöte. Valitse kerros väliltä 1-10.");
+                    MessageBox.Show("Virheellinen syöte. Valitse kerros 1-6 väliltä.");
                 }
             }
             else
             {
-                MessageBox.Show("Virheellinen syöte. Valitse kerros väliltä 1-10.");
+                MessageBox.Show("Virheellinen syöte. Valitse kerros 1-6 väliltä.");
             }
         }
 
